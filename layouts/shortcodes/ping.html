@@ -1,0 +1,6 @@
+This is: {{ .Inner }}
+{{ define "xyz" }}
+Huh
+{{ end }}
+
+A{{ block "xyz" . }}{{ end }}B

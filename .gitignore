@@ -1,3 +1,5 @@
+*.swp
+*.lock
 
 # Created by https://www.toptal.com/developers/gitignore/api/osx,visualstudiocode,hugo,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=osx,visualstudiocode,hugo,node

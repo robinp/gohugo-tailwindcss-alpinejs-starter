@@ -1,5 +1,14 @@
 # Hugo Starter with Tailwind CSS and GitHub Actions
 
+## Some links
+
+- https://www.unsungnovelty.org/posts/03/2022/how-to-add-tailwind-css-3-to-a-hugo-website-in-2022/
+- https://github.com/indaco/gohugo-tailwindcss-alpinejs-starter
+- https://www.wimdeblauwe.com/blog/2021/01/18/using-hugo-with-tailwind-css-2/
+- https://functional.style/hugo/general/hatstack/
+
+## Original intro
+
 Starter project with Hugo as CMS, TailwindCSS and Alpinejs.
 
 - set up to use latest Tailwind CSS - v2.2+
