@@ -4,6 +4,8 @@ gdpr = false
 
 scrollScript = true
 
+Title = "The Site Title"
+
 [Webmaster]
   author = "indaco"
   license = "MIT"
