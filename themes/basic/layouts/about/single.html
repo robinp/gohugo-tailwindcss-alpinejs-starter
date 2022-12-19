@@ -1,0 +1,12 @@
+{{ define "main"}}
+This is a single post layout of about. The content is:
+{{ .Content }}
+
+Is there a title? {{ .Title }}
+
+<p>What about resources?
+{{ range .Resources }}
+<p>{{ .Name }} has url {{ .Permalink }}, and content {{ .Content }}</p>
+{{ end }}
+
+{{ end }}

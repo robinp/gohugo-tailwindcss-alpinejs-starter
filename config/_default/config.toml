@@ -46,6 +46,21 @@ rel  = "sitemap"
 [taxonomies]
   contributor = "contributors"
 
+[menu]
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About us'
+    title = 'About us'
+    pageref = '/about'
+    weight = -110
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    title = 'Our posts'
+    pageref = '/posts'
+    weight = -100
+
+
 [module]
   [[module.mounts]]
     source = "assets"
