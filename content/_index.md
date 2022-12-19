@@ -18,7 +18,7 @@ Hello? <i>Yeah</i>
 <div x-data="{ open: false }">
   <button class="bg-pink-500 btn" @click="open = true">Expand</button>
 
-  <span x-cloak x-show="open">
+  <span x-cloak x-show="open" x-transition.duration.500ms>
     Content...
   </span>
 </div>
